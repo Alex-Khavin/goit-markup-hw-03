@@ -25,9 +25,9 @@ height: auto;}
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    margin-right: 76px;
 }
     
+.header-logo {margin-right: 76px;}
 .logo-black {color: #2e2f42;}
 .white-logo {color: #f4f4fd;}
 .nav-container {}
@@ -43,6 +43,7 @@ align-items: center;}
 .header-list {
 display: flex;
 gap: 40px;
+
 }
 
 .header-item 
